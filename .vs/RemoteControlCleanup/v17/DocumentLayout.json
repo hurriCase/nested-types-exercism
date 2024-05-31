@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|c:\\users\\dmitr\\exercism\\csharp\\remote-control-cleanup\\remotecontrolcleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|solutionrelative:remotecontrolcleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|c:\\users\\dmitr\\exercism\\csharp\\remote-control-cleanup\\remotecontrolcleanuptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|solutionrelative:remotecontrolcleanuptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|c:\\users\\dmitr\\exercism\\csharp\\remote-control-cleanup\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|c:\\users\\dmitr\\exercism\\csharp\\remote-control-cleanup\\help.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|solutionrelative:help.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|c:\\users\\dmitr\\exercism\\csharp\\remote-control-cleanup\\hints.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B2F345D9-6803-47F3-9F20-AE9F264B16B2}|RemoteControlCleanup.csproj|solutionrelative:hints.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteControlCleanupTests.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\RemoteControlCleanupTests.cs",
+              "RelativeDocumentMoniker": "RemoteControlCleanupTests.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\RemoteControlCleanupTests.cs",
+              "RelativeToolTip": "RemoteControlCleanupTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:38:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoteControlCleanup.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\RemoteControlCleanup.cs",
+              "RelativeDocumentMoniker": "RemoteControlCleanup.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\RemoteControlCleanup.cs",
+              "RelativeToolTip": "RemoteControlCleanup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:38:44.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HINTS.md",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\HINTS.md",
+              "RelativeDocumentMoniker": "HINTS.md",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\HINTS.md",
+              "RelativeToolTip": "HINTS.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-22T14:38:09.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HELP.md",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\HELP.md",
+              "RelativeDocumentMoniker": "HELP.md",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\HELP.md",
+              "RelativeToolTip": "HELP.md",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwCYAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-22T14:38:01.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\remote-control-cleanup\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwDsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-22T11:38:45.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

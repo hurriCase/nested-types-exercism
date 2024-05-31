@@ -1,0 +1,24 @@
+{
+  "authors": [
+    "mikedamay"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "yzAlvin"
+  ],
+  "files": {
+    "solution": [
+      "RemoteControlCleanup.cs"
+    ],
+    "test": [
+      "RemoteControlCleanupTests.cs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.cs"
+    ],
+    "invalidator": [
+      "RemoteControlCleanup.csproj"
+    ]
+  },
+  "blurb": "Learn about nested types by refactoring a car class."
+}
